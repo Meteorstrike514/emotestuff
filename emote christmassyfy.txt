@@ -25,7 +25,7 @@ skype's emotes
 other emotes
 
 -- (Arms left and right)
-'' hi
+** hi
 -- (penta logo???)
 // (boosted)(candycanes instead of dashes??) //
 -- (noot noot)(is that possible????/no space)
