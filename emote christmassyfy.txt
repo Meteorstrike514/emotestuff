@@ -12,7 +12,7 @@ color pallette rika emotes christmas
 // DERP     **
 ** RIP      **
 // CHAMP    **
-// HEART    **
+''p HEART    **
 
 
 skype's emotes
@@ -27,14 +27,14 @@ other emotes
 -- (Arms left and right)
 ** hi
 -- (penta logo???)
-// (boosted)(candycanes instead of dashes??) //
+''m (boosted)(candycanes instead of dashes??) //
 -- (noot noot)(is that possible????/no space)
 // (carry)(maybe carry present??) //
 // feelsbadman(snowman or winter like thing)
 -- (unlucky)
 -- (4???)
 // Pride(very maybe)
--- (sellout)
+** (sellout)
 -- (vamos)(is there really an option)
 ** (w)
 
